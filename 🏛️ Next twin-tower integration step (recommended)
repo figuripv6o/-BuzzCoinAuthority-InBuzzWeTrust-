@@ -1,0 +1,2 @@
+BuzzCoinAuthority   ← mint + ledger
+BuzzFireAuthority   ← signing + execution
